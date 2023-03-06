@@ -1,1 +1,1 @@
-from .facts_extractor import NatashaExtractor
+from .bot_class import *
